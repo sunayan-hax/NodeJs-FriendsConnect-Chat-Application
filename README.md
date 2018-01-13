@@ -29,7 +29,7 @@ This is a node.js chat application powered by SocketJS and Express that provides
 ## Video Demo
 ## Link: https://www.youtube.com/watch?v=VnIZ3DGdjiM
 
-<a href="https://www.youtube.com/embed/VnIZ3DGdjiM" target="_blank"><img src="https://www.dl.dropboxusercontent.com/s/poz9pavk34p8v1r/chat-1.png?dl=0" 
+<a href="https://www.youtube.com/embed/VnIZ3DGdjiM" target="_blank"><img src="https://www.dl.dropboxusercontent.com/s/cu0qfqgnure0pse/video-preview.png?dl=0" 
 alt="FriendsConnect Chat Application" width="100%" height="500px" border="10" /></a>
 
 
