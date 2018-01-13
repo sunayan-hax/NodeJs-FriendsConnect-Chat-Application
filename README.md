@@ -7,6 +7,14 @@ This is a node.js chat application powered by SocketJS and Express that provides
 - Type `/help` to get a list of the available chat commands
 
 ---
+## ScreenShot Preview
+![ScreenShot Preview](https://www.dl.dropboxusercontent.com/s/poz9pavk34p8v1r/chat-1.png?dl=0)
+
+![ScreenShot Preview](https://www.dl.dropboxusercontent.com/s/d0q7n7wlzge3qo5/chat-2.png?dl=0)
+
+![ScreenShot Preview](https://www.dl.dropboxusercontent.com/s/d0q7n7wlzge3qo5/chat-2.png?dl=0)
+
+![ScreenShot Preview](https://www.dl.dropboxusercontent.com/s/e1df6xeownkw6li/chat-4.png?dl=0)
 
 ## Features
 - Material Design
