@@ -7,7 +7,7 @@ This is a node.js chat application powered by SocketJS and Express that provides
 - Type `/help` to get a list of the available chat commands
 
 ---
-## ScreenShot Preview
+## Screen Preview
 ![ScreenShot Preview](https://www.dl.dropboxusercontent.com/s/poz9pavk34p8v1r/chat-1.png?dl=0)
 
 ![ScreenShot Preview](https://www.dl.dropboxusercontent.com/s/d0q7n7wlzge3qo5/chat-2.png?dl=0)
@@ -27,9 +27,13 @@ This is a node.js chat application powered by SocketJS and Express that provides
 - Other awesome features yet to be implemented
 
 ## Video Demo
--Link: https://www.youtube.com/watch?v=VnIZ3DGdjiM
+## Link: https://www.youtube.com/watch?v=VnIZ3DGdjiM
 
-####There are 3 admin levels:
+<a href="https://www.youtube.com/embed/VnIZ3DGdjiM" target="_blank"><img src="https://www.dl.dropboxusercontent.com/s/poz9pavk34p8v1r/chat-1.png?dl=0" 
+alt="FriendsConnect Chat Application" width="100%" height="500px" border="10" /></a>
+
+
+## There are 3 admin levels:
 - **Helper:** Can delete chat messages
 - **Moderator:** The above plus the ability to kick and ban users
 - **Administrator:** All the above plus send global alerts and promote/demote users
