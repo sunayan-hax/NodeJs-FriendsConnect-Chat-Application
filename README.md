@@ -1,8 +1,8 @@
-===============================
-FriendsConnect Chat Application
-===============================
+=================================================================
+FriendsConnect Chat Application ( NodeJS Based Chat Application )
+=================================================================
 
-This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
+This is a node.js chat application powered by SocketJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
 
 
 - Type `/help` to get a list of the available chat commands
@@ -19,6 +19,8 @@ This is a node.js chat application powered by SockJS and Express that provides t
 - See other user's IPs (for admins)
 - Other awesome features yet to be implemented
 
+## Video Demo
+-Link: https://www.youtube.com/watch?v=VnIZ3DGdjiM
 
 ####There are 3 admin levels:
 - **Helper:** Can delete chat messages
