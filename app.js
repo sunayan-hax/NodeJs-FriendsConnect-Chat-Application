@@ -14,7 +14,10 @@ var config = require('./config.json');
 var pack = require('./package.json');
 var path = require('path');
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 227810c7fcd501a74dd6ad587d731b9a13ba8e48
 /* Config */
 var port = utils.normalizePort(process.env.PORT || config.port);
 var app = express();
@@ -393,4 +396,8 @@ function onListening() {
     log('start', 'Listening at ' + bind);
 }
 
+<<<<<<< HEAD
 chat.installHandlers(server, {prefix:'/socket', log:function(){}});
+=======
+chat.installHandlers(server, {prefix:'/socket', log:function(){}});
+>>>>>>> 227810c7fcd501a74dd6ad587d731b9a13ba8e48
